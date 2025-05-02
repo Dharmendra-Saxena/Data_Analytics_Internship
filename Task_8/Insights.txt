@@ -1,0 +1,7 @@
+Insights:
+
+-  Overall, sales have shown an upward trend from 2014 to 2018.
+-  California consistently leads in total sales, followed by New York and Texas.
+-  Some states have higher Office Supplies sales compared to other categories, highlighting unique market preferences.
+-  Technology dominates sales, accounting for 36.4% of total revenue, followed by Office Supplies (32.3%) and Furniture (31.3%).
+-  Furniture struggles to maintain strong sales, indicating potential areas for improvement in pricing, promotion, or product offering.
